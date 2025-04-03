@@ -1,38 +1,8 @@
 {
-  "location": {
-    "city": "Sao Paulo",
-    "country": "Brazil",
-    "coordinates": {
-      "latitude": -15.4237,
-      "longitude": -43.2759
-    }
-  },
-  "current_weather": {
     "temperature": 22,
     "humidity": 68,
     "condition": "Partly Cloudy",
     "wind_speed": 10,
     "wind_direction": "NE",
     "precipitation": "0 mm"
-  },
-  "forecast": [
-    {
-      "day": "Friday",
-      "high_temperature": 24,
-      "low_temperature": 18,
-      "condition": "Sunny"
-    },
-    {
-      "day": "Saturday",
-      "high_temperature": 25,
-      "low_temperature": 17,
-      "condition": "Rainy"
-    },
-    {
-      "day": "Sunday",
-      "high_temperature": 23,
-      "low_temperature": 16,
-      "condition": "Cloudy"
-    }
-  ]
 }
